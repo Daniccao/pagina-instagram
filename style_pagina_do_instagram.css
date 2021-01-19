@@ -1,0 +1,96 @@
+.estrutura{
+    background-color: #fafafa;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.ladoesquerdo{
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
+.ladodireito{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    padding: 9px 0 7px 8px;
+}
+
+.instagram_logo{
+    height: 4rem;
+}
+
+.login{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    border: 1px solid lightgrey;
+    background-color: white;
+}
+
+.dados_de_contato{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #dbdbdb;
+    background-color: #fafafa;
+    
+}
+
+.senha{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #dbdbdb;
+    background-color: #fafafa;
+}
+
+.entrar_instagram{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid #fafafa;
+    background-color: lightskyblue;
+}
+
+.entra_com_face{
+    display: flex;
+    align-items: center;
+}
+
+.face_logo{
+    height: 1rem;
+}
+
+.esqueceu_senha{
+    display: flex;
+    align-items: center;    
+}
+
+.cadastro{
+    align-items: center;
+    border: 1px solid lightgrey;
+    background-color: white;
+    padding: 9px 0 7px 8px;
+}
+
+.app{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.appstore{
+    flex: auto;
+    height: 5rem;
+}
+
+.googleplay{
+    flex: auto;
+    height: 6rem;
+}
